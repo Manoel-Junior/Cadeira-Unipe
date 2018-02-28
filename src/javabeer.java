@@ -18,6 +18,7 @@ public class javabeer {
 					System.out.println("Quantas deseja reabastecer?");
 					Scanner leitor1 = new Scanner(System.in);
 					cer = leitor.nextInt();
+					
 				}
 			}
 		}
